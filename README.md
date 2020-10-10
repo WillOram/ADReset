@@ -25,15 +25,15 @@ It is critical to perform a full password reset on all user and computer account
 
 The following accounts should be reset:
 
-AD Kerberos Authentication Master (2x)
-All Active Directory Accounts
-All Active Directory Admin Accounts
-All Active Directory Service Accounts
-All Active Directory User Accounts
-DSRM Account on Domain Controllers
-Non-AD Privileged Application Accounts
-Non-AD Unprivileged Application Accounts
-Non-Windows Privileged Accounts
-Non-Windows User Accounts
-Windows Computer Accounts
-Windows Local Admin
+AD Kerberos Authentication Master (2x)  
+All Active Directory Accounts  
+All Active Directory Admin Accounts  
+All Active Directory Service Accounts  
+All Active Directory User Accounts  
+DSRM Account on Domain Controllers  
+Non-AD Privileged Application Accounts  
+Non-AD Unprivileged Application Accounts  
+Non-Windows Privileged Accounts  
+Non-Windows User Accounts  
+Windows Computer Accounts  
+Windows Local Admin  
